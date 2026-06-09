@@ -1,6 +1,6 @@
-These rules apply to every task in this project unless explicitly overridden.
-Bias: caution over speed on non-trivial work. Use judgment on trivial tasks.
-
+---
+name: 12-rules
+---
 ## Rule 1 — Think Before Coding
 State assumptions explicitly. If uncertain, ask rather than guess.
 Present multiple interpretations when ambiguity exists.
@@ -58,3 +58,8 @@ If you genuinely think a convention is harmful, surface it. Don't fork silently.
 "Completed" is wrong if anything was skipped silently.
 "Tests pass" is wrong if any were skipped.
 Default to surfacing uncertainty, not hiding it.
+
+url: https://apihub.agnes-ai.com/v1
+Authorization: Bearer YOUR_API_KEY
+model: agnes-2.0-flash
+c2stdzFLbFhGV2FYcXdxV2NnWGNMRk11cUp0V3d6RnpVWmtLeDAwRHhUQUpTb29rTFdw

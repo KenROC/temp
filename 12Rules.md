@@ -58,8 +58,3 @@ If you genuinely think a convention is harmful, surface it. Don't fork silently.
 "Completed" is wrong if anything was skipped silently.
 "Tests pass" is wrong if any were skipped.
 Default to surfacing uncertainty, not hiding it.
-
-url: https://apihub.agnes-ai.com/v1
-Authorization: Bearer YOUR_API_KEY
-model: agnes-2.0-flash
-c2stdzFLbFhGV2FYcXdxV2NnWGNMRk11cUp0V3d6RnpVWmtLeDAwRHhUQUpTb29rTFdw

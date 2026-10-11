@@ -50,6 +50,14 @@
 
 請用 Curriculum Mapping + PCK Extraction + Advance Organizer Extraction
 整理這個教科書章節的圖解與重點。
+
+請用 Diagrammatic Knowledge Extraction + Visual Concept Mapping + Spatial Representation Extraction
+先圖解這個章節的所有幾何圖、物理示意圖或化學分子結構，
+再用 Instructional Design Analysis 整理成可直接放入筆記軟體的重點筆記。
+
+請用 Scientific Diagram Reconstruction + Geometry Diagram Extraction + Molecular Structure Mapping
+重建本章節的所有圖解，並產生圖解版的章節重點摘要。
+
 ---
 # 閱讀論文抓重點
 

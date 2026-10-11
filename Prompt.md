@@ -27,4 +27,34 @@
 ---
 # 解釋概念
 
-用 ASD-STE100 來解釋某件事
+請以接近 80% ASD-STE100 規範的方式解釋這個概念。
+---
+# 整理長文重點
+
+請用 Hierarchical Summarization + Multi-Pass Reading Notes + Content Decomposition Framework
+幫我整理這篇長文，並產生可直接放入筆記軟體的重點筆記。
+---
+# 圖解長文重點
+
+請先用 Mind Map Generation + Argument Map + Flow Diagram Extraction
+圖解這篇長文的結構，再用 Multi-Pass Reading Notes 產生重點筆記。
+
+請用 Concept Map Extraction + Knowledge Graph Construction + Hierarchical Summarization
+先圖解這篇長文，再產生可直接放入筆記軟體的重點摘要。
+
+---
+# 教科書抓重點
+
+請用 Instructional Design Analysis + Chapter Concept Map + Didactic Reduction
+幫我拆解這個教科書章節，並產生可直接放入筆記軟體的重點筆記。
+
+請用 Curriculum Mapping + PCK Extraction + Advance Organizer Extraction
+整理這個教科書章節的圖解與重點。
+---
+# 閱讀論文抓重點
+
+請用 Structured Paper Summary (SPS) + Keshav Three-Pass Method + Critical Appraisal Checklist
+幫我產生論文閱讀重點筆記。
+
+請依照 MIT/Harvard Paper Dissection Template + RRL Matrix + IMRaD Extraction
+產生可直接放入筆記軟體的論文閱讀重點筆記。

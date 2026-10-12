@@ -66,3 +66,17 @@
 
 請依照 MIT/Harvard Paper Dissection Template + RRL Matrix + IMRaD Extraction
 產生可直接放入筆記軟體的論文閱讀重點筆記。
+
+---
+# 專業技術呈現風格
+
+請用 RFC‑Style HTML Rendering + Technical Specification HTML Format (TSHF)
+將以下內容轉換成專業 HTML 呈現。
+
+要求：
+1. 保持原文內容完全不變，不改寫、不補充、不刪減。
+2. 只進行 HTML 結構化與排版。
+3. 自動加入適合技術文件的標題、段落、表格、程式碼區塊、流程圖區塊等。
+4. 若內容包含流程、封包格式、拓撲圖、協定比較，請自動以 <pre>、<code>、<table> 呈現。
+5. 整體風格請維持計算機網路作業的技術文件風格。
+

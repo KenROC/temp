@@ -79,4 +79,7 @@
 3. 自動加入適合技術文件的標題、段落、表格、程式碼區塊、流程圖區塊等。
 4. 若內容包含流程、封包格式、拓撲圖、協定比較，請自動以 <pre>、<code>、<table> 呈現。
 5. 整體風格請維持計算機網路作業的技術文件風格。
+---
+# 抓深度
 
+I want a deeper version of this task, not a bigger one. Before rewriting it: (1) say what a top professional in this field would do here that I’m not asking for; (2) name the rawest material they would start from instead of what has already been digested for me; (3) name the specific methods and tools they would use; (4) say what, other than you or me, would show the result is right. Then rewrite my prompt to ask for exactly that.
